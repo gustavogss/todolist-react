@@ -9,7 +9,7 @@
 - Style Components
 - Sass
 
-## Como utlizar🏃
+## Como utlizar 🏃
 
 - Clonar o projeto
 - Dentro da pasta do projeto, instale as dependências com o comando npm install
